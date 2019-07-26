@@ -1,5 +1,4 @@
 +++
-draft = true
 name = "Primer Post"
 tags = ["investment", "blog", "platanus"]
 
